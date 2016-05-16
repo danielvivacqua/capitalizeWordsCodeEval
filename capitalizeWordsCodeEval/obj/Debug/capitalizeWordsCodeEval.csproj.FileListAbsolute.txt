@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\capitalizeWordsCodeEval\capitalizeWordsCodeEval\bin\Debug\capitalizeWordsCodeEval.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\capitalizeWordsCodeEval\capitalizeWordsCodeEval\obj\Debug\capitalizeWordsCodeEval.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\capitalizeWordsCodeEval\capitalizeWordsCodeEval\bin\Debug\capitalizeWordsCodeEval.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\capitalizeWordsCodeEval\capitalizeWordsCodeEval\bin\Debug\capitalizeWordsCodeEval.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\capitalizeWordsCodeEval\capitalizeWordsCodeEval\obj\Debug\capitalizeWordsCodeEval.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\capitalizeWordsCodeEval\capitalizeWordsCodeEval\obj\Debug\capitalizeWordsCodeEval.pdb
